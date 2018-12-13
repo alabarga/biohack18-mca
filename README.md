@@ -18,5 +18,7 @@ MCA_Figure2-batch-removed.txt.tar.gz: The batch removed dge of approximately 60,
 
 **uniprot.json**: mapping of gene name to UNIPROT
 
+**annotated_cells.csv**: mapping cell name to CL
+
 **mca_annotated.zip (unzips to mca_annotated.csv)**: gene expression matrix filtered to genes/cells annotated
 
