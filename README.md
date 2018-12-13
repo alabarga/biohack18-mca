@@ -5,12 +5,13 @@ MCA single cell DGE data (Cells with >500UMI ) for the following manuscript:
 
 **Mapping the Mouse Cell Atlas by Microwell-seq**
 
-Data available at https://figshare.com/articles/MCA_DGE_Data/5435866
+I used:
 
-MCA_Figure2-batch-removed.txt.tar.gz: The batch removed dge of approximately 60,000 cells of high quality. 1500 cells were sampled from 43 tissues respectively. This sampled data is used for Figure 2.
-
+**MCA_Figure2-batch-removed.txt.tar.gz**: The batch removed dge of approximately 60,000 cells of high quality. 1500 cells were sampled from 43 tissues respectively. This sampled data is used for Figure 2.
 
 **MCA_Figure2_Cell.info.xlsx**: The annotations of cells used in Figure2.
+
+Data available at https://figshare.com/articles/MCA_DGE_Data/5435866
 
 **tissue_uberon.json**: mapping of tissues in MCA data to UBERON
 
