@@ -1,0 +1,596 @@
+Tissue,Cell type
+Uterus,Stromal cell
+Uterus,Endothelial cell
+Uterus,Principal cells of cortical collecting duct
+Uterus,Dendritic cell
+Uterus,Macrophage
+Uterus,Osteoblast
+Uterus,NK cell
+Uterus,Smooth muscle cell
+Uterus,Neutrophil
+Uterus,B cell
+Uterus,Muscle cell
+Uterus,Myocyte
+Uterus,Monocyte
+Uterus,T cell
+Uterus,Mast cell
+TrophoblastStemCells,Trophoblast stem cell
+TrophoblastStemCells,Macrophage
+TrophoblastStemCells,MSC (Cultured)
+TrophoblastStemCells,MEF (Cultured)
+TrophoblastStemCells,Trophoblast progenitor cell
+Thymus,T cell
+Thymus,NK cell
+Thymus,Dendritic cell
+Thymus,B cell
+Thymus,Monocyte
+Thymus,Macrophage
+Thymus,Stromal cell
+Thymus,Neutrophil
+Thymus,Myeloid progenitor cell
+Testis,Testicular cell
+Testis,Osteoblast
+Testis,Macrophage
+Testis,Leydig cell
+Testis,Stromal cell
+Testis,Primordial germ cell
+Stomach,Gastric mucosa cell
+Stomach,Stomach epithelial cell
+Stomach,Endothelial cell
+Stomach,Endocrine cell
+Stomach,Stromal cell
+Stomach,Mast cell
+Stomach,Macrophage
+Stomach,Dendritic cell
+Stomach,Smooth muscle cell
+Stomach,Epithelial cell
+Stomach,Neuron
+Spleen,Erythroid progenitor
+Spleen,B cell
+Spleen,Neutrophil
+Spleen,T cell
+Spleen,Erythroblast
+Spleen,Mast cell
+Spleen,Monocyte
+Spleen,Dendritic cell
+Spleen,Macrophage
+Spleen,NK cell
+Spleen,NK/T cell
+SmallIntestine,Intestinal epithelial cell
+SmallIntestine,B cell
+SmallIntestine,NK/T cell
+SmallIntestine,Dendritic cell
+SmallIntestine,T cell
+SmallIntestine,Smooth muscle cell
+SmallIntestine,Macrophage
+SmallIntestine,Endocrine cell
+SmallIntestine,Mast cell
+SmallIntestine,Stromal cell
+SmallIntestine,Neutrophil
+SmallIntestine,Endothelial cell
+SmallIntestine,Monocyte
+SmallIntestine,NK cell
+SmallIntestine,Epithelial cell
+Prostate,Prostate gland cell
+Prostate,Dendritic cell
+Prostate,Urothelium
+Prostate,Epithelial cell
+Prostate,Endothelial cell
+Prostate,Myocyte
+Prostate,Macrophage
+Prostate,NK/T cell
+Prostate,Osteoblast
+Placenta,Macrophage
+Placenta,Trophoblast progenitor cell
+Placenta,Endothelial cell
+Placenta,Myocyte
+Placenta,Placenta endodermal cell 
+Placenta,Dendritic cell
+Placenta,Principal cells of cortical collecting duct
+Placenta,Decidual stromal cell
+Placenta,Spongiotrophoblast
+Placenta,NK cell
+Placenta,Monocyte
+Placenta,Myeloid progenitor cell
+Placenta,Neutrophil
+Placenta,Mast cell
+Placenta,Hepatocyte
+Placenta,Erythroblast
+Placenta,Proliferating Myocyte
+Placenta,Muscle cell
+Placenta,T cell
+Placenta,Microglia
+Placenta,Epithelial cell
+Placenta,Smooth muscle cell
+Placenta,Cycling cell
+PeripheralBlood,B cell
+PeripheralBlood,T cell
+PeripheralBlood,Monocyte
+PeripheralBlood,NK cell
+PeripheralBlood,Mast cell
+PeripheralBlood,Neutrophil
+PeripheralBlood,Dendritic cell
+PeripheralBlood,Myeloid progenitor cell
+PeripheralBlood,Macrophage
+PeripheralBlood,Erythroblast
+PeripheralBlood,Erythroid progenitor
+PeripheralBlood,Cycling cell
+Pancreas,Endothelial cell
+Pancreas,Smooth muscle cell
+Pancreas,Stromal cell
+Pancreas,Endocrine cell
+Pancreas,Dendritic cell
+Pancreas,Macrophage
+Pancreas,Epithelial cell
+Pancreas,Osteoblast
+Pancreas,T cell
+Pancreas,Cycling cell
+Pancreas,B cell
+Pancreas,Monocyte
+Pancreas,Myoblast
+Pancreas,Pancreatic acinar cell
+Pancreas,Myeloid progenitor cell
+Pancreas,NK cell
+Ovary,Endothelial cell
+Ovary,Muscle cell
+Ovary,Leydig cell
+Ovary,Luteal cell
+Ovary,Proliferating Myocyte
+Ovary,Cumulus cell
+Ovary,Smooth muscle cell
+Ovary,Macrophage
+Ovary,Granulosa cell
+Ovary,Myocyte
+Ovary,Dendritic cell
+Ovary,T cell
+Ovary,Monocyte
+Ovary,Principal cells of cortical collecting duct
+NeontalBrain,Schwann cell
+NeontalBrain,Oligodendrocyte
+NeontalBrain,Microglia
+NeontalBrain,Proliferative neuron
+NeontalBrain,Macrophage
+NeontalBrain,Clara Cell
+NeontalBrain,Endothelial cell
+NeontalBrain,Neuron
+NeontalBrain,Cycling cell
+NeontalBrain,Monocyte
+NeontalBrain,Myocyte
+NeontalBrain,Proliferating Myocyte
+NeontalBrain,Smooth muscle cell
+NeontalBrain,Astrocyte
+NeontalBrain,Neutrophil
+NeontalBrain,Myoblast
+NeonatalSkin,Stromal cell
+NeonatalSkin,Endothelial cell
+NeonatalSkin,Adipocyte
+NeonatalSkin,Macrophage
+NeonatalSkin,Monocyte
+NeonatalSkin,Mast cell
+NeonatalSkin,Myeloid progenitor cell
+NeonatalSkin,Smooth muscle cell
+NeonatalSkin,Myocyte
+NeonatalSkin,T cell
+NeonatalSkin,Muscle cell
+NeonatalSkin,Neutrophil
+NeonatalSkin,Cycling cell
+NeonatalSkin,Dendritic cell
+NeonatalSkin,B cell
+NeonatalRib,Chondrocyte
+NeonatalRib,Myeloid progenitor cell
+NeonatalRib,Mast cell
+NeonatalRib,Endothelial cell
+NeonatalRib,Monocyte
+NeonatalRib,Stromal cell
+NeonatalRib,Macrophage
+NeonatalRib,Neutrophil
+NeonatalRib,B cell
+NeonatalRib,Osteoblast
+NeonatalRib,Neuron
+NeonatalRib,Smooth muscle cell
+NeonatalRib,NK cell
+NeonatalRib,Muscle cell
+NeonatalRib,Erythroblast
+NeonatalRib,Myocyte
+NeonatalRib,Erythroid progenitor
+NeonatalRib,Microglia
+NeonatalRib,Dendritic cell
+NeonatalRib,Oligodendrocyte
+NeonatalRib,Adipocyte
+NeonatalRib,Astrocyte
+NeonatalRib,Proliferative neuron
+NeonatalRib,Schwann cell
+NeonatalRib,Myoblast
+NeonatalRib,T cell
+NeonatalMuscle,Adipocyte
+NeonatalMuscle,Stromal cell
+NeonatalMuscle,Myocyte
+NeonatalMuscle,Neutrophil
+NeonatalMuscle,Erythroblast
+NeonatalMuscle,Mast cell
+NeonatalMuscle,Myeloid progenitor cell
+NeonatalMuscle,Chondrocyte
+NeonatalMuscle,Smooth muscle cell
+NeonatalMuscle,Macrophage
+NeonatalMuscle,Endothelial cell
+NeonatalMuscle,Monocyte
+NeonatalMuscle,B cell
+NeonatalMuscle,Erythroid progenitor
+NeonatalMuscle,Dendritic cell
+NeonatalMuscle,Osteoblast
+NeonatalMuscle,Muscle cell
+NeonatalMuscle,Cycling cell
+NeonatalMuscle,NK cell
+NeonatalMuscle,Proliferating Myocyte
+NeonatalMuscle,T cell
+NeonatalHeart,Smooth muscle cell
+NeonatalHeart,Myoblast
+NeonatalHeart,Mast cell
+NeonatalHeart,Endothelial cell
+NeonatalHeart,Cardiac muscle cell
+NeonatalHeart,Macrophage
+NeonatalHeart,Osteoblast
+NeonatalHeart,Monocyte
+NeonatalHeart,Neutrophil
+NeonatalHeart,Stromal cell
+NeonatalHeart,Erythroblast
+NeonatalHeart,Myeloid progenitor cell
+NeonatalHeart,Neuron
+NeonatalCalvaria,Chondrocyte
+NeonatalCalvaria,Stromal cell
+NeonatalCalvaria,Endothelial cell
+NeonatalCalvaria,Proliferative neuron
+NeonatalCalvaria,Smooth muscle cell
+NeonatalCalvaria,Erythroblast
+NeonatalCalvaria,Myocyte
+NeonatalCalvaria,Mast cell
+NeonatalCalvaria,Neuron
+NeonatalCalvaria,Cartilage cell
+NeonatalCalvaria,Schwann cell
+NeonatalCalvaria,Neutrophil
+NeonatalCalvaria,Myeloid progenitor cell
+NeonatalCalvaria,Erythroid progenitor
+NeonatalCalvaria,Microglia
+NeonatalCalvaria,Macrophage
+NeonatalCalvaria,Monocyte
+Muscle,Erythroid progenitor
+Muscle,Monocyte
+Muscle,Neutrophil
+Muscle,Cycling cell
+Muscle,Macrophage
+Muscle,Erythroblast
+Muscle,Dendritic cell
+Muscle,B cell
+Muscle,Myeloid progenitor cell
+Muscle,Myocyte
+Muscle,Muscle cell
+Muscle,Osteoblast
+Muscle,Stromal cell
+Muscle,Cardiac muscle cell
+Muscle,Endothelial cell
+Muscle,Mast cell
+Muscle,NK cell
+Muscle,T cell
+Mouse3T3,3T3 cell
+MesenchymalStemCellsPrimary,Erythroid progenitor
+MesenchymalStemCellsPrimary,Mast cell
+MesenchymalStemCellsPrimary,Erythroblast
+MesenchymalStemCellsPrimary,Osteoblast
+MesenchymalStemCellsPrimary,Neutrophil
+MesenchymalStemCellsPrimary,Smooth muscle cell
+MesenchymalStemCellsPrimary,Myeloid progenitor cell
+MesenchymalStemCellsPrimary,B cell
+MesenchymalStemCellsPrimary,Endothelial cell
+MesenchymalStemCellsPrimary,Chondrocyte
+MesenchymalStemCellsPrimary,Monocyte
+MesenchymalStemCellsPrimary,Stromal cell
+MesenchymalStemCellsPrimary,Muscle cell
+MesenchymalStemCellsPrimary,Endothelial Cell
+MesenchymalStemCells,MSC (Cultured)
+MammaryGland.Virgin,T cell
+MammaryGland.Virgin,B cell
+MammaryGland.Virgin,Dendritic cell
+MammaryGland.Virgin,Stromal cell
+MammaryGland.Virgin,Mast cell
+MammaryGland.Virgin,Epithelial cell
+MammaryGland.Virgin,Macrophage
+MammaryGland.Virgin,Monocyte
+MammaryGland.Virgin,Endothelial cell
+MammaryGland.Virgin,NK cell
+MammaryGland.Virgin,Muscle cell
+MammaryGland.Virgin,Smooth muscle cell
+MammaryGland.Virgin,NK/T cell
+MammaryGland.Virgin,Myeloid progenitor cell
+MammaryGland.Virgin,Myoblast
+MammaryGland.Pregnancy,T cell
+MammaryGland.Pregnancy,Stromal cell
+MammaryGland.Pregnancy,Muscle cell
+MammaryGland.Pregnancy,Macrophage
+MammaryGland.Pregnancy,Dendritic cell
+MammaryGland.Pregnancy,NK cell
+MammaryGland.Pregnancy,Epithelial cell
+MammaryGland.Pregnancy,B cell
+MammaryGland.Pregnancy,Endothelial cell
+MammaryGland.Pregnancy,Mast cell
+MammaryGland.Pregnancy,Neutrophil
+MammaryGland.Pregnancy,Monocyte
+MammaryGland.Lactation,Secretory alveoli cell
+MammaryGland.Lactation,B cell
+MammaryGland.Lactation,Adipocyte
+MammaryGland.Lactation,Macrophage
+MammaryGland.Lactation,Dendritic cell
+MammaryGland.Lactation,Myeloid progenitor cell
+MammaryGland.Lactation,T cell
+MammaryGland.Lactation,Muscle cell
+MammaryGland.Lactation,Stromal cell
+MammaryGland.Lactation,Epithelial cell
+MammaryGland.Lactation,Mast cell
+MammaryGland.Lactation,Endothelial cell
+MammaryGland.Lactation,Myocyte
+MammaryGland.Lactation,Myoblast
+MammaryGland.Involution,Endothelial cell
+MammaryGland.Involution,Epithelial cell
+MammaryGland.Involution,T cell
+MammaryGland.Involution,Stromal cell
+MammaryGland.Involution,Macrophage
+MammaryGland.Involution,B cell
+MammaryGland.Involution,NK cell
+MammaryGland.Involution,Dendritic cell
+MammaryGland.Involution,Osteoblast
+MammaryGland.Involution,Mast cell
+MammaryGland.Involution,Muscle cell
+MammaryGland.Involution,Monocyte
+MammaryGland.Involution,Myeloid progenitor cell
+MammaryGland.Involution,Neutrophil
+Male.fetal.Gonad,Premeiotic germ cell
+Male.fetal.Gonad,Sertoli cells
+Male.fetal.Gonad,Muscle cell
+Male.fetal.Gonad,Leydig cell
+Male.fetal.Gonad,Proliferating Myocyte
+Male.fetal.Gonad,Myocyte
+Male.fetal.Gonad,Epithelial cell
+Male.fetal.Gonad,Erythroblast
+Male.fetal.Gonad,Cycling cell
+Male.fetal.Gonad,Granulosa cell
+Male.fetal.Gonad,Myeloid progenitor cell
+Male.fetal.Gonad,NK cell
+Male.fetal.Gonad,Macrophage
+Male.fetal.Gonad,Monocyte
+Male.fetal.Gonad,Primordial germ cell
+Male.fetal.Gonad,Kidney epithelial
+Male.fetal.Gonad,Neutrophil
+Male.fetal.Gonad,Mast cell
+Male.fetal.Gonad,Smooth muscle cell
+Male.fetal.Gonad,Dendritic cell
+Male.fetal.Gonad,Endothelial cell
+Lung,Alveolar type II cell
+Lung,Dendritic cell
+Lung,Eosinophil
+Lung,Clara Cell
+Lung,T cell
+Lung,Monocyte
+Lung,Stromal cell
+Lung,Macrophage
+Lung,NK cell
+Lung,Smooth muscle cell
+Lung,Endothelial cell
+Lung,Neutrophil
+Lung,Muscle cell
+Lung,Osteoblast
+Lung,B cell
+Lung,NK/T cell
+Lung,Mast cell
+Lung,Myocyte
+Liver,Endothelial Cell
+Liver,Macrophage
+Liver,Dendritic cell
+Liver,NK cell
+Liver,Myeloid progenitor cell
+Liver,Hepatocyte
+Liver,Epithelial cell
+Liver,T cell
+Liver,Monocyte
+Liver,B cell
+Liver,Osteoblast
+Liver,Stromal cell
+Liver,Erythroblast
+Liver,Endothelial cell
+Liver,Mast cell
+Liver,Neutrophil
+Liver,NK/T cell
+Kidney,Renal tubular cell
+Kidney,Proximal tubule brush border cell
+Kidney,Endothelial cell
+Kidney,Intercalated cells of collecting duct
+Kidney,Dendritic cell
+Kidney,Macrophage
+Kidney,Monocyte
+Kidney,Osteoblast
+Kidney,MSC (Cultured)
+Kidney,Urothelium
+Kidney,Stromal cell
+Kidney,T cell
+Kidney,B cell
+Kidney,Proliferative neuron
+Kidney,NK/T cell
+Kidney,Smooth muscle cell
+FetalStomach,Myocyte
+FetalStomach,Epithelial cell
+FetalStomach,Mast cell
+FetalStomach,Cycling cell
+FetalStomach,Endocrine cell
+FetalStomach,Proliferating Myocyte
+FetalStomach,Pancreatic acinar cell
+FetalStomach,Macrophage
+FetalStomach,Muscle cell
+FetalStomach,Erythroblast
+FetalStomach,Myeloid progenitor cell
+FetalStomach,Neuron
+FetalStomach,Neutrophil
+FetalStomach,T cell
+FetalStomach,Dendritic cell
+FetalStomach,Proliferative neuron
+FetalStomach,Monocyte
+FetalStomach,Hepatocyte
+FetalLung,Proliferating Myocyte
+FetalLung,Myocyte
+FetalLung,Epithelial cell
+FetalLung,Macrophage
+FetalLung,Erythroblast
+FetalLung,Cycling cell
+FetalLung,Monocyte
+FetalLung,Muscle cell
+FetalLung,Myeloid progenitor cell
+FetalLung,Endothelial cell
+FetalLung,Neutrophil
+FetalLung,Dendritic cell
+FetalLung,Cardiac muscle cell
+FetalLung,Mast cell
+FetalLung,B cell
+FetalLiver,Erythroblast
+FetalLiver,Endothelial cell
+FetalLiver,Hepatocyte
+FetalLiver,Myeloid progenitor cell
+FetalLiver,Neutrophil
+FetalLiver,Monocyte
+FetalLiver,Macrophage
+FetalLiver,Mast cell
+FetalLiver,Cycling cell
+FetalLiver,B cell
+FetalLiver,Erythroid progenitor
+FetalLiver,Dendritic cell
+FetalKidney,Proliferating Myocyte
+FetalKidney,Endothelial cell
+FetalKidney,Renal tubular cell
+FetalKidney,Kidney epithelial
+FetalKidney,Cycling cell
+FetalKidney,Myocyte
+FetalKidney,Macrophage
+FetalKidney,Erythroblast
+FetalKidney,Epithelial cell
+FetalKidney,Proliferative neuron
+FetalKidney,Monocyte
+FetalKidney,Muscle cell
+FetalIntestine,Myocyte
+FetalIntestine,Proliferating Myocyte
+FetalIntestine,Macrophage
+FetalIntestine,Epithelial cell
+FetalIntestine,Neuron
+FetalIntestine,T cell
+FetalIntestine,Cycling cell
+FetalIntestine,Microglia
+FetalIntestine,Pancreatic acinar cell
+FetalIntestine,NK cell
+FetalIntestine,Myeloid progenitor cell
+FetalIntestine,Endothelial cell
+FetalIntestine,Proliferative neuron
+FetalIntestine,Muscle cell
+FetalIntestine,Endocrine cell
+FetalIntestine,Mast cell
+FetalIntestine,Erythroblast
+FetalIntestine,Dendritic cell
+FetalIntestine,B cell
+FetalBrain,Neuron
+FetalBrain,Proliferative neuron
+FetalBrain,Cycling cell
+FetalBrain,Schwann cell
+FetalBrain,Microglia
+FetalBrain,Myocyte
+FetalBrain,Macrophage
+FetalBrain,Proliferating Myocyte
+FetalBrain,Dendritic cell
+Female.fetal.Gonad,Granulosa cell
+Female.fetal.Gonad,Primordial germ cell
+Female.fetal.Gonad,Erythroblast
+Female.fetal.Gonad,Proliferating Myocyte
+Female.fetal.Gonad,Muscle cell
+Female.fetal.Gonad,Premeiotic germ cell
+Female.fetal.Gonad,Mast cell
+Female.fetal.Gonad,Neutrophil
+Female.fetal.Gonad,Myocyte
+Female.fetal.Gonad,Macrophage
+Female.fetal.Gonad,Myeloid progenitor cell
+Female.fetal.Gonad,Cycling cell
+Female.fetal.Gonad,B cell
+EmbryonicStemCells,mESC
+EmbryonicStemCells,Erythroblast
+EmbryonicMesenchyme,Erythroblast
+EmbryonicMesenchyme,Myocyte
+EmbryonicMesenchyme,Cartilage cell
+EmbryonicMesenchyme,Proliferating Myocyte
+EmbryonicMesenchyme,Macrophage
+EmbryonicMesenchyme,Neuron
+EmbryonicMesenchyme,Cycling cell
+EmbryonicMesenchyme,Leydig cell
+EmbryonicMesenchyme,Dendritic cell
+EmbryonicMesenchyme,Myeloid progenitor cell
+EmbryonicMesenchyme,Proliferative neuron
+EmbryonicMesenchyme,Mast cell
+EmbryonicMesenchyme,Muscle cell
+EmbryonicMesenchyme,Pancreatic acinar cell
+EmbryonicMesenchyme,Luteal cell
+EmbryonicMesenchyme,Monocyte
+EmbryonicMesenchyme,Endothelial cell
+EmbryonicMesenchyme,Epithelial cell
+EmbryonicMesenchyme,T cell
+EmbryonicMesenchyme,Hepatocyte
+EmbryonicMesenchyme,Microglia
+EmbryonicMesenchyme,Neutrophil
+EmbryonicMesenchyme,Sertoli cells
+EmbryonicMesenchyme,Premeiotic germ cell
+EmbryonicMesenchyme,Granulosa cell
+EmbryonicMesenchyme,Kidney epithelial
+EmbryonicMesenchyme,Cumulus cell
+EmbryonicMesenchyme,Primordial germ cell
+EmbryonicMesenchyme,B cell
+Brain,Oligodendrocyte
+Brain,Astrocyte
+Brain,Microglia
+Brain,Schwann cell
+Brain,T cell
+Brain,Macrophage
+Brain,NK cell
+Brain,Monocyte
+Brain,Endothelial cell
+Brain,Neuron
+Brain,Clara Cell
+Brain,Proliferative neuron
+Brain,Neutrophil
+Brain,Dendritic cell
+Brain,B cell
+BoneMarrowcKit,Myeloid progenitor cell
+BoneMarrowcKit,Monocyte
+BoneMarrowcKit,Neutrophil
+BoneMarrowcKit,B cell
+BoneMarrowcKit,Erythroid progenitor
+BoneMarrowcKit,Mast cell
+BoneMarrowcKit,NK cell
+BoneMarrowcKit,Erythroblast
+BoneMarrowcKit,Dendritic cell
+BoneMarrowcKit,Macrophage
+BoneMarrow,Monocyte
+BoneMarrow,Neutrophil
+BoneMarrow,Macrophage
+BoneMarrow,Erythroblast
+BoneMarrow,Erythroid progenitor
+BoneMarrow,Myeloid progenitor cell
+BoneMarrow,T cell
+BoneMarrow,Cycling cell
+BoneMarrow,B cell
+BoneMarrow,Dendritic cell
+BoneMarrow,Mast cell
+BoneMarrow,NK cell
+BoneMarrow,Osteoblast
+Bladder,Urothelium
+Bladder,Stromal cell
+Bladder,Endothelial cell
+Bladder,Macrophage
+Bladder,Smooth muscle cell
+Bladder,Dendritic cell
+Bladder,Osteoblast
+Bladder,Mast cell
+Bladder,B cell
+Bladder,T cell
+Bladder,Monocyte
+Bladder,Myocyte
+Bladder,NK cell
